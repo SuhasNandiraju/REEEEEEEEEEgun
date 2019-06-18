@@ -8,7 +8,7 @@ The REEEEEEEEEEgun has 2 programs that you have to run simultaneously: the Ardui
 In order to build the REEEEEEEEEEgun, you will need: an Arduino, 2 servos, an Arduino shield that can wire 2 servos, some basic arts and crafts stuff like wood and paper, tape, and an external webcam. For enhanced capabilities, get some extra female to female wires.
 
 
-You can assemble the REEEEEEEEEEgun any way you want, but the basic idea is for one servo to hold a rotating base with the camera and "gun" on it. The "gun" will be a servo, which in my case, had a wooden skewer along with a piece of folded paper attached to it to make a basic (but shitty) catapult mechanism. The first servo should be held still somehow. I just taped it down to my desk, but not everyone is as bad at engineering as me, so you can probably 3d print a stand to hold it.
+You can assemble the REEEEEEEEEEgun any way you want, but the basic idea is for one servo to hold a rotating base with the camera and "gun" on it. The "gun" will be a servo, which in my case, had a wooden skewer along with a piece of folded paper attached to it to make a basic (but trash) catapult mechanism. The first servo should be held still somehow. I just taped it down to my desk, but not everyone is as bad at engineering as me, so you can probably 3d print a stand to hold it.
 
 
 To use the REEEEEEEEEEgun, all you have to do is upload the .ino file to the arduino and then run the python script simultaneously as the arduino is plugged in. The result should be a turret that scans for a face. Once it finds one, it should start shooting its gun. The base should also follow your face once you have been detected and make adjustments to get a clean shot.
