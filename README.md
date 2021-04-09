@@ -1,4 +1,4 @@
-# REEEEEEEEEEgun
+#logic- readme it,s amazeing 
 Hi, I'm Suhas. And if you're like me, you just hate when people barge into your room while you're watching. To solve this crisis amongst our generation, I created the REEEEEEEEEEgun to help keep out those pesky intrusions like your mom or the FBI.
 
 The REEEEEEEEEEgun is basically a turret that detects the face of anyone who isn't on a special whitelist and shoots them with any manner of projectiles! 
