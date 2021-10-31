@@ -1,4 +1,4 @@
-*Disblaimer: This is a joke repository and the "gun" is about as harmful as a toddler throwing a cottonball.
+*Disclaimer: This is a joke repository and the "gun" is about as harmful as a toddler throwing a cottonball.
 
 Hi, I'm Suhas. And if you're like me, you just hate when people barge into your room while you're watching netflix. To solve this crisis amongst our generation, I created the REEEEEEEEEEgun to help keep out those pesky intrusions like your mom or the FBI.
 
